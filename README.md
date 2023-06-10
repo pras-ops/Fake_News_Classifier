@@ -1,4 +1,4 @@
-# Fake_News_Classifie# Fake News Classifier
+# Fake_News_Classifie
 
 This project aims to build a fake news classifier using Natural Language Processing. The classifier is trained on a dataset containing news headlines and corresponding information.
 
@@ -52,13 +52,19 @@ Two machine learning models are trained and evaluated:
     -   The Naive Bayes model is trained on the TF-IDF vectorized data and the Count vectorized data.
     -   The accuracy and confusion matrix are calculated for both cases.
     -   The wrong predictions are displayed along with the total predictions made.
+    ![download](https://github.com/pras-ops/Fake_News_Classifier/assets/56476064/9d3cf4e7-9230-42af-b3bc-e72cd60008da)
+
 2.  Random Forest Model:
     
     -   The Random Forest model is trained on the TF-IDF vectorized data and the Count vectorized data.
     -   The accuracy and confusion matrix are calculated for both cases.
     -   The wrong predictions are displayed along with the total predictions made.
+   |  Model accuracy on train  |0.9999218688960075 |
+   | Model accuracy on test     |0.9050309879693766|
 3.  K-Nearest Neighbors Model:
     
     -   The K-Nearest Neighbors model is trained on the TF-IDF vectorized data and the Count vectorized data.
     -   The accuracy and confusion matrix are calculated for both cases.
     -   The wrong predictions are displayed along with the total predictions made.
+   |  Model accuracy on train  | 0.5187123994062036 |
+   | Model accuracy on test     | 0.48651111921254103|
