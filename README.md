@@ -59,12 +59,12 @@ Two machine learning models are trained and evaluated:
     -   The Random Forest model is trained on the TF-IDF vectorized data and the Count vectorized data.
     -   The accuracy and confusion matrix are calculated for both cases.
     -   The wrong predictions are displayed along with the total predictions made.
-   |  Model accuracy on train  |0.9999218688960075 |
-   | Model accuracy on test     |0.9050309879693766|
+    -   |  Model accuracy on train  |0.9999218688960075 |
+    -   | Model accuracy on test     |0.9050309879693766|
 3.  K-Nearest Neighbors Model:
     
     -   The K-Nearest Neighbors model is trained on the TF-IDF vectorized data and the Count vectorized data.
     -   The accuracy and confusion matrix are calculated for both cases.
     -   The wrong predictions are displayed along with the total predictions made.
-   |  Model accuracy on train  | 0.5187123994062036 |
-   | Model accuracy on test     | 0.48651111921254103|
+    -   |  Model accuracy on train  | 0.5187123994062036 |
+    -   | Model accuracy on test     | 0.48651111921254103|
